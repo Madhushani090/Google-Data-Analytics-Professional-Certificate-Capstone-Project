@@ -2,7 +2,7 @@
 
 ## Analyze smart device data to uncover trends and guide Bellabeat's marketing strategy for growth.
 
-<img align="right" width="650" height="400" src="bellabeat.png">
+<img align="right" width="500" height="400" src="bellabeat.png">
 
 Bellabeat is a high-tech manufacturer of health-focused products for women. They offer a variety of products, including:
 
